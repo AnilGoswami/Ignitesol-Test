@@ -1,0 +1,37 @@
+body,
+html {
+
+    font-family: 'Montserrat' !important;
+
+    background-color: var(--secondaryColor);
+
+    font-size: 16px;
+
+    color: var(--greysDark);
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: 'Montserrat-SemiBold' !important;
+}
+
+h1 {
+    font-size: 48px;
+}
+
+h2 {
+    font-size: 30px;
+}
+
+ul {
+    padding: 0 !important;
+}
+
+ul>li {
+    padding: 0 !important;
+    list-style: none;
+}

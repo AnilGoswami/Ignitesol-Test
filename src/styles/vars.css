@@ -1,0 +1,11 @@
+:root {
+    /*Colors*/
+    --primaryColor: #5E56E7;
+    --secondaryColor: #F8F7FF;
+
+    /*Greys*/
+    --greysLight: #F0F0F6;
+    --greysMedium: #A0A0A0;
+    --greysDark: #333333;
+
+}
